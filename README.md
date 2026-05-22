@@ -24,7 +24,7 @@ Mi trayectoria combina una base sólida en hardware, sistemas y redes con mi evo
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/PL_SQL_(Oracle)-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/PL_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
 
 <h4> Frameworks y Plataformas </h4>
