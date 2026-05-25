@@ -47,7 +47,6 @@ Base sólida en hardware, sistemas y redes con mi evolución actual hacia el des
 
 <h4> Otras herramientas y tecnologías </h4>
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </p>
