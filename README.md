@@ -9,7 +9,6 @@ Mi trayectoria combina una base sólida en hardware, sistemas y redes con mi evo
   - Diseño y Fundamentos de Programación (Java) ☕
   - Desarrollo de Interfaces y Entornos Multiplataforma 📱
   - Sistemas de Gestión de Bases de Datos 🗄️
-- 💡 Me interesa todo lo relacionado con los datos y el software: **Mobile & Web Development, Big Data y Cloud Computing**.
 - 💬 Háblame sobre Espacio, Filosofía, Ciencia o cualquier reto técnico que despierte la curiosidad.
 
 ---
