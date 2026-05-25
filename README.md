@@ -2,7 +2,7 @@
 
 Tengo un Grado Medio en Sistemas Microinformáticos y Redes (SMR), formación especializada en Reparación de Dispositivos Móviles, y actualmente soy estudiante de primer año de Desarrollo de Aplicaciones Multiplataforma (DAM). 
 
-Tengo una base sólida en hardware, sistemas y redes con mi evolución actual hacia el desarrollo de software y aplicaciones móviles/web.
+Base sólida en hardware, sistemas y redes con mi evolución actual hacia el desarrollo de software y aplicaciones móviles/web.
 
 - ⚡ **Dato curioso:** Creo firmemente en la *Teoría del Caos*: incluso en entornos impredecibles con rarezas e irregularidades aparentemente aleatorias, existe un patrón predecible y sensato que no se ve a primera vista.
 - 🔭 Actualmente estoy enfocado en:
